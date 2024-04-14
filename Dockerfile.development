@@ -1,5 +1,5 @@
 #use the golang base image
-FROM golang:1.19.7
+FROM golang:1.22.2
 MAINTAINER Daniël van Gils
 
 #get all the go crosscompile stuff
